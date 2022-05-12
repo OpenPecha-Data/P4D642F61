@@ -17,3 +17,8 @@ source_metadata:
       parent: Words of the Buddha
 created_at: '2022-03-01T05:24:04.312411'
 last_modified_at: '2022-03-01T05:24:04.312413'
+statistics:
+  total_words: 14134
+  total_non_words: 1348
+quality:
+  non_words_ratio: 0.1
